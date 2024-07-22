@@ -1,0 +1,101 @@
+1.    Introduction to Java
+2.    Applications of Java
+3.    History of Java [Optional]
+4.    Internal working of Java
+5.    Java Architecture
+6.    Setting Up the Environment
+7.    Setting up IDE for coding
+8.    Writing first code – Hello World!
+9.    Java Features
+10. Variables
+11. How Variables stored are stored memory
+12. Data Types
+13. Identifiers
+14. Values
+15. Operators
+16. Scanner
+17. Final
+18. enums
+19. Type casting
+20. Structure of Java Code
+21. Class, Object & Method creation
+22. this keyword
+23. Constructor and its types
+24. Types of Variables and the static keyword
+a.     Types of variables – local, instance, static
+b.    Static keyword (Method, Blocks, Nested classes)
+25. Control Statements
+a.     Conditional
+b.    Loop
+c.     Branching
+26. Strings 
+27. StringBuffer and StringBuilder
+28. 1D-Arrays
+29. 2D-Arrays
+30. Arrays
+31. Package
+32. Access Modifiers
+33. Packages and Accessibility
+34. Object Oriented Programming Principles
+35. Object Class
+36. Inheritance
+37. Polymorphism
+38. Encapsulation
+39. Abstraction, Abstract classes vs Interfaces
+40. Some more OOPs principles – Aggregation, Composition
+41. Wrapper Classes
+42. Some more concepts
+a.     super keyword
+b.    Inner classes
+c.     Annotations
+43. Exception handling
+a.     try
+b.    catch
+c.     finally
+d.    throw
+e.     throws
+44. Collections
+45. Generics and Type-Safety
+46. Collections
+a.     List
+b.    Set
+c.     Queue
+d.    Map
+e.     Iterators
+47. Comparable
+48. Comparator
+49. Functional Interfaces
+50. Lambda Expressions
+51. Method References
+52. Static and Default Methods in Interfaces
+53. Streams
+54. Java Time API (java.time package)
+55. Optional class
+56. Garbage collection
+57. Garbage Collection Algorithm
+58. 56. inalize() method
+59. Java 9-16 Features
+a.     Modules (Java 9)
+b.    Local-Variable Type Inference (var keyword) (Java 10)
+c.     Improved Performance and Security (Java 10+)
+d.    Text Blocks (Java 13)
+e.     Pattern Matching for instanceof (Java 14)
+f.     Records (Java 14)
+g.    Sealed Classes (Java 15)
+60. Java 17 Features
+a.     Sealed Classes (finalized)
+b.    Pattern Matching for switch (Preview)
+c.     Enhanced Random Number Generators
+d.    New macOS Rendering Pipeline
+e.     Removal of RMI Activation
+61. File Handling
+62. Serialization and De-serialization
+63. I/O
+64. APIs
+65. Unit Testing
+66. Multithreading and Concurrency
+67. Thread coordination in multithreading
+68. Performance optimization in multithreading
+69. Data sharing between threads
+70. Do a project on Core Java [Take ideas from web]
+
